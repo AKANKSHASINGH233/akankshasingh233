@@ -5,7 +5,7 @@
 
 
 -->
-I am an Ph.D student pursuing Data Science and Engineering at IISER,Bhopal Campus. I am interested in and am exploring the fields of Deep Learning, Machine Learning and applications involving intersections of these fields.
+I am a third Ph.D student pursuing Data Science and Engineering at IISER, Bhopal Campus. I am interested in and am exploring the fields of Deep Learning, Machine Learning, and applications involving intersections of these fields.
 
 **###Contact Me**
 
